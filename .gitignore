@@ -1,0 +1,7 @@
+WeChat.NET/obj/
+packages/
+WeChat.NET/bin/
+Griffin.WebServer/obj/
+Griffin.WebServer.Tests/obj/
+BaseFunc/bin/
+BaseFunc/obj/

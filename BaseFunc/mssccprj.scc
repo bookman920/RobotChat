@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[BaseFunc.csproj]
+SCC_Aux_Path = "\\53-db_server\vss\"
+SCC_Project_Name = "$/sanguo.root/sanguo/BaseFunc", KGEAAAAA
